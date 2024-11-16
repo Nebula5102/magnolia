@@ -1,5 +1,5 @@
-import Title from "../components/title.tsx";
-import PageCard from "../components/pagecard.tsx";
+import Title from "../components/title.tsx"
+import PageCard from "../components/pagecard.tsx"
 
 export default function Home() {
   return (
